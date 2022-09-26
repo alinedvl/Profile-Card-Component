@@ -3,7 +3,7 @@
 Solução do exercício baseado no projeto do Frontend Mentor Profile card component. A proposta é criar um cartão responsivo, contendo informações de um perfil. 
 
 
-[<img src="src/images/profile-card.PNG" alt="Imagem do projeto">]
+[<img src="src/images/profile-card.png" alt="Imagem do projeto">]
 
 
 ## Meu processo

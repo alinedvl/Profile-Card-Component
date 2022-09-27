@@ -1,6 +1,7 @@
 # Profile card component
 
-Solução do exercício baseado no projeto do Frontend Mentor Profile card component. A proposta é criar um cartão responsivo, contendo informações de um perfil. 
+Solução do exercício baseado no projeto do Frontend Mentor, o Profile card component. 
+Resolvi colocar as informações de perfil em um card mais personalizado. 
 
 
 [<img src="src/images/profile-card.png" alt="Imagem do projeto">]
